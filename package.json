@@ -1,0 +1,26 @@
+{
+  "name": "solo",
+  "version": "1.0.0",
+  "description": "Simple JS packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mopeyjellyfish/solo-js.git"
+  },
+  "author": "David Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mopeyjellyfish/solo-js/issues"
+  },
+  "homepage": "https://github.com/mopeyjellyfish/solo-js#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  },
+  "dependencies": {
+    "eslint": "^5.0.1"
+  }
+}
