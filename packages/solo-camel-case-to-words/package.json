@@ -1,0 +1,18 @@
+{
+  "name": "solo-camel-case-to-words",
+  "version": "1.0.0",
+  "description": "Convert camel case to words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "camelCase",
+    "camel",
+    "case",
+    "words",
+    "converter"
+  ],
+  "author": "David Hall",
+  "license": "MIT"
+}
